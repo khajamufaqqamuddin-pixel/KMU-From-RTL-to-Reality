@@ -106,7 +106,7 @@ $ ./configure
 $ make
 $ sudo make install
 ```
-![alt text](MAGIC.jpeg)
+![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/week-0/Magic.jpeg)
 
 ## ✅ **Tool Versions**
 ```bash
