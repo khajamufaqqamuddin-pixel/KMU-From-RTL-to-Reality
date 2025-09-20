@@ -56,13 +56,61 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
+![alt text](YOSYS.jpeg)
 ## ✅ **Iverilog Installation**
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
+![alt text](IVERILOG.jpeg)
 ## ✅ **Gtkwave**
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
+
+![alt text](GTKWAVE.jpeg)
+
+## ✅ **Ngspice**
+After downloading the tarball from https://sourceforge.net/projects/ngspice/files/ to a local directory, unpack it using:
+```bash
+$ tar -zxvf ngspice-37.tar.gz
+$ cd ngspice-37
+$ mkdir release
+$ cd release
+$ ../configure  --with-x --with-readline=yes --disable-debug
+$ make
+$ sudo make install
+```
+![alt text](NGSPICE.jpeg)
+
+## ✅ **Magic**
+Install the required dependencies:
+```bash
+$ sudo apt-get install m4
+$ sudo apt-get install tcsh
+$ sudo apt-get install csh
+$ sudo apt-get install libx11-dev
+$ sudo apt-get install tcl-dev tk-dev
+$ sudo apt-get install libcairo2-dev
+$ sudo apt-get install mesa-common-dev libglu1-mesa-dev
+$ sudo apt-get install libncurses-dev
+```
+Clone and build Magic:
+```bash
+$ git clone https://github.com/RTimothyEdwards/magic
+$ cd magic
+$ ./configure
+$ make
+$ sudo make install
+```
+![alt text](MAGIC.jpeg)
+
+## ✅ **Tool Versions**
+```bash
+$ git --version
+$ docker --version
+$ python3 --version
+$ make --version
+```
+![alt text](GIT.jpeg)
