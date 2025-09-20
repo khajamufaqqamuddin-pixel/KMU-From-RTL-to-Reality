@@ -115,4 +115,4 @@ $ docker --version
 $ python3 --version
 $ make --version
 ```
-![alt text](GIT.jpeg)
+![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/tree/main/week-0)
