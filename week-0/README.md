@@ -71,7 +71,7 @@ $ sudo apt install gtkwave
 ```
 
 
-![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/GTKWAVE.jpeg)
+![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/week-0/Gtkwave.jpeg)
 
 ## ✅ **Ngspice**
 After downloading the tarball from https://sourceforge.net/projects/ngspice/files/ to a local directory, unpack it using:
