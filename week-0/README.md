@@ -63,7 +63,7 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/IVERILOG.jpeg)
+![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/week-0/Iverilog.jpeg)
 ## ✅ **Gtkwave**
 ```
 $ sudo apt update
