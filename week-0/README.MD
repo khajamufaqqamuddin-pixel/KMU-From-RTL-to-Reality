@@ -56,7 +56,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-YOSYS.jpeg
+
 ![alt text](YOSYS.jpeg)
 ## ✅ **Iverilog Installation**
 ```bash
