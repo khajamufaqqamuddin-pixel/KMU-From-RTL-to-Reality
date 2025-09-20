@@ -57,7 +57,7 @@ $ make
 $ sudo make install
 ```
 
-![alt text](YOSYS.jpeg)
+![alt text](view-source:https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/YOSYS.jpeg)
 ## ✅ **Iverilog Installation**
 ```bash
 $ sudo apt-get update
