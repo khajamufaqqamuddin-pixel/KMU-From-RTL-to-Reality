@@ -84,7 +84,7 @@ $ ../configure  --with-x --with-readline=yes --disable-debug
 $ make
 $ sudo make install
 ```
-![alt text](:https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/week-0/Ngspice.jpeg)
+![alt text](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/week-0/Ngspice.jpeg)
 
 ## ✅ **Magic**
 Install the required dependencies:
