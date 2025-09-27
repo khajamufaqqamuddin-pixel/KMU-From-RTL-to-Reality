@@ -83,7 +83,7 @@ $ yosys
 ![gtkwave_async_set](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gtkwave_async_set.jpeg)
 
 
-![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+![dff_async_set](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/dff_async_set.jpeg)
 
 ---
 
