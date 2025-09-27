@@ -126,7 +126,7 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/partial_case_assign.jpeg)
+🖼️ ![gtkwave_partial_case_assign](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gtkwave_partial_case_assign.jpeg)
 🖼️ ![partial_case_assign](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/partial_case_assign.jpeg)
 
 
