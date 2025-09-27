@@ -17,8 +17,10 @@ $ yosys
 > abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
 > show
 ```
-🖼️ ![good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux.jpeg)
 
+🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+
+---
 
 # Opt_Check2 Using Yosys
 
@@ -36,8 +38,9 @@ $ yosys
 > show
 ```
 
-🖼️ ![good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux.jpeg)
+🖼️ ![opt_check2](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check2.jpeg)
 
+---
 
 # Opt_Check3 Using Yosys
 
@@ -55,9 +58,9 @@ $ yosys
 > show
 ```
 
-🖼️ ![good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux.jpeg)
+🖼️ ![opt_check3](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check3.jpeg)
 
-
+---
 
 # Opt_Check4 Using Yosys
 
@@ -76,9 +79,9 @@ $ yosys
 > show
 ```
 
-🖼️ ![good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux.jpeg)
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
 
-
+---
 
 # Dff_Const1 Using Iverilog And Yosys
 
@@ -102,6 +105,11 @@ $ yosys
 > show
 ```
 
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+
+---
+
 # Dff_Const2 Using Iverilog And Yosys
 
 
@@ -122,6 +130,11 @@ $ yosys
 > abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
 > show
 ```
+
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+
+---
 
 # Dff_Const3 Using Iverilog And Yosys
 
@@ -144,5 +157,8 @@ $ yosys
 > show
 ```
 
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
 
-
+---
+🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
