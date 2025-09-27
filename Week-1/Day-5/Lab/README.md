@@ -20,9 +20,9 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![gvim_incomp_if](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gvim_incomp_if.jpeg)
+🖼️ ![gtkwave_incomp_if](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gtkwave_incomp_if.jpeg)
+🖼️ ![in_comp_if](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/incomp_if.jpeg)
 
 
 ---
@@ -47,8 +47,8 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![gtkwave_incomp_if2](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gtkwave_incomp_if2.jpeg)
+🖼️ ![incomp_if2](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/incomp_if2.jpeg)
 
 
 
