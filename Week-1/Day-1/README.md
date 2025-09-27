@@ -51,7 +51,7 @@ This repository documents my hands-on learning and implementation of Verilog-bas
 
 
 📊 **Flow Image**  
-![Iverilog Flow](Images/Iverilog_based_simulation_flow.png)
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
 
 ---
 
