@@ -19,6 +19,7 @@ $ ./a.out
 $ gtkwave tb_good_mux.vcd
 $ gvim tb_good_mux.v -o good_mux.v
 ```
+🖼️ ![good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Lab/good_mux.jpeg)
 🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
 🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
 # Good_mux using yosys
