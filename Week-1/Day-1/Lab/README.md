@@ -6,7 +6,7 @@ $ cd sky130RTLDesignAndSynthesisWorkshop
 $ ls
 $ cd verilog_files
 ```
-🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
+🖼️ ![file_path](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Lab/file_path.jpeg)
 # Good_mux using iverilog
 
 ```bash
