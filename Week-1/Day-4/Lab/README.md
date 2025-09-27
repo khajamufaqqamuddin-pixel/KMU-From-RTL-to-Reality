@@ -24,6 +24,10 @@ $ ./a.out
 $ gtkwave tb_ternary_operator_mux.vcd
 ```
 
+🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+
+---
 
 # Blocking_Caveat Using Iverilog,Yosys,GLS
 
@@ -48,4 +52,13 @@ $ iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_f
 $ ./a.out
 $ gtkwave tb_blocking_caveat.vcd
 ```
+
+🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+
+
+---
+
+
 
