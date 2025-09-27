@@ -25,6 +25,8 @@ $ gtkwave tb_ternary_operator_mux.vcd
 ```
 
 🖼️ ![gtkwavw_ternary_operator](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-4/Lab/gtkwave_ternary_operator_mux.jpeg)
+
+
 🖼️ ![ternary_operator_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-4/Lab/ternary_operator_mux.jpeg)
 
 ---
@@ -54,8 +56,14 @@ $ gtkwave tb_blocking_caveat.vcd
 ```
 
 🖼️ ![iverilog_blocking_caveat](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-4/Lab/iverilog_blocking%20caveat.jpeg)
+
+
 🖼️ ![gvim_blocking_caveat](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-4/Lab/gvim_blocking_caveat.jpeg)
+
+
 🖼️ ![gtkwave_blocking_caveat](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-4/Lab/gtkwave_blocking_caveat.jpeg)
+
+
 🖼️ ![blocking_caveat](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-4/Lab/blocking_caveat.jpeg)
 
 
