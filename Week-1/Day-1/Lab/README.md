@@ -40,4 +40,4 @@ $ yosys
 > !gvim good_mux_netlist.v
 ```
 🖼️ ![yosys_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Lab/yosys_good_mux.jpeg)
-🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
+🖼️ ![good_mux_netlist](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Lab/good_mux_netlist.jpeg)
