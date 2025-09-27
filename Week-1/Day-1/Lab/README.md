@@ -6,6 +6,7 @@ $ cd sky130RTLDesignAndSynthesisWorkshop
 $ ls
 $ cd verilog_files
 ```
+🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
 # Good_mux using iverilog
 
 ```bash
@@ -18,6 +19,8 @@ $ ./a.out
 $ gtkwave tb_good_mux.vcd
 $ gvim tb_good_mux.v -o good_mux.v
 ```
+🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
+🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
 # Good_mux using yosys
 ```bash
 $ ls
@@ -34,3 +37,5 @@ $ yosys
 > !gvim good_mux_netlist.v
 > write_verilog -noattr good_mux_netlist.v
 > !gvim good_mux_netlist.v
+🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
+🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
