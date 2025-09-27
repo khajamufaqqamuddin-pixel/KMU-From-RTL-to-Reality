@@ -177,9 +177,9 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![gvim_mux_generate](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gvim_mux_generate.jpeg)
+🖼️ ![gtkwave_mux_genereat](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gtkwave_mux_generate.jpeg)
+🖼️ ![mux_generate](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/mux_generate.jpeg)
 
 
 ---
@@ -203,8 +203,8 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![gtkwave_demux_case](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gtkwave_demux_case.jpeg)
+🖼️ ![demux_case](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/demux_case.jpeg)
 
 
 
@@ -229,8 +229,8 @@ $ yosys
 > show rca
 ```
 
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
-🖼️ ![opt_check](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check.jpeg)
+🖼️ ![gtkwave_rca](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/gtkwave_rca.jpeg)
+🖼️ ![rca](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-5/Lab/rca.jpeg)
 
 
 ---
