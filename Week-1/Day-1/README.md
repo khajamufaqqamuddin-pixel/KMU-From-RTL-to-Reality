@@ -65,7 +65,7 @@ This repository documents my hands-on learning and implementation of Verilog-bas
 
 - Behavioral Verilog using `always @(*)` with `if-else`.
 
-🖼️ ![good_mux](Images/good_mux.png)
+🖼️ ![good_mux]([Images/good_mux.png](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ This repository documents my hands-on learning and implementation of Verilog-bas
 🎯 Stimulates the `good_mux` module.  
 📝 Dumps waveforms for GTKWave via `$dumpfile` and `$dumpvars`.
 
-🖼️ ![tb_good_mux](Images/tb_good_mux.png)
+🖼️ ![tb_good_mux](:https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
 
 ---
 
