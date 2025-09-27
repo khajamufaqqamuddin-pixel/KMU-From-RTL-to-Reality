@@ -105,8 +105,8 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+🖼️ ![gtkwave_dff_const1](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/gtkwave_dff_const1.jpeg)
+🖼️ ![dff_const1](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/dff_const1.jpeg)
 
 ---
 
@@ -131,8 +131,8 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+🖼️ ![gtkwave_dff_const2](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/gtkwave_dff_const2.jpeg)
+🖼️ ![dff_const2](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/dff_const2.jpeg)
 
 ---
 
@@ -157,8 +157,7 @@ $ yosys
 > show
 ```
 
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
+🖼️ ![gtkwave_dff_const3](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/gtkwave_dff_const3.jpeg)
+🖼️ ![dff_const3](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/dff_const3.jpeg)
 
 ---
-🖼️ ![opt_check4](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-3/Lab/opt_check4.jpeg)
