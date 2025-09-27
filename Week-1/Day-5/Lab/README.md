@@ -22,7 +22,7 @@ $ yosys
 
 ---
 
-# Incomp Using Iverilog And Yosys
+# Incomp_If2 Using Iverilog And Yosys
 
 ```bash
 $ ls
