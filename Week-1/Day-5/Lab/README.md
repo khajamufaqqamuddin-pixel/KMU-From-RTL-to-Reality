@@ -20,6 +20,8 @@ $ yosys
 > show
 ```
 
+---
+
 # Incomp Using Iverilog And Yosys
 
 ```bash
@@ -40,7 +42,7 @@ $ yosys
 > show
 ```
 
-
+---
 
 # Incomp_Case Using Iverilog And Yosys
 
@@ -62,6 +64,8 @@ $ yosys
 > show
 ```
 
+---
+
 # comp_Case Using Iverilog And Yosys
 
 ```bash
@@ -81,6 +85,8 @@ $ yosys
 > abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
 > show
 ```
+
+---
 
 # Partial_Case_Assign Using Iverilog And Yosys
 
@@ -102,6 +108,8 @@ $ yosys
 > show
 ```
 
+---
+
 # Bad_Case Using Iverilog And Yosys
 
 ```bash
@@ -122,6 +130,8 @@ $ yosys
 > show
 ```
 
+---
+
 # Mux_Generate Using Iverilog And Yosys
 
 ```bash
@@ -133,10 +143,57 @@ $ gvim mux_generate.v
 $ iverilog mux_generate.v tb_mux_generate.v
 $ ./a.out
 $ gtkwave tb_mux_generate.vcd
+$ yosys
+> read_liberty -nooverwrite -lib /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
+> read_verilog mux_generate.v
+> synth -top mux_generate
+> abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
+> show
+```
+
+---
+
+# Demux_Case Using Iverilog And Yosys
+
+
+```bash
+$ ls
+$ cd sky130RTLDesignAndSynthesisWorkshop
+$ ls
+$ cd verilog_files
+$ iverilog demux_case.v tb_demux_case.v
+$ ./a.out
+$ gtkwave tb_demux_case.vcd
+$ yosys
+> read_liberty -nooverwrite -lib /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
+> read_verilog demux_case.v
+> synth -top demux_case
+> abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
+> show
 ```
 
 
+---
+
+# Rca Using Iverilog And Yosys
 
 
+```bash
+$ ls
+$ cd sky130RTLDesignAndSynthesisWorkshop
+$ ls
+$ cd verilog_files
+$ iverilog fa.v rca.v tb_rca.v
+$ ./a.out
+$ gtkwave tb_rca.vcd
+$ yosys
+> read_liberty -nooverwrite -lib /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
+> read_verilog fa.v rca.v
+> synth -top rca
+> abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
+> show rca
+```
+
+---
 
 
