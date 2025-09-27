@@ -21,6 +21,16 @@ $ yosys
 > !gvim multiple_modules_flat.v
 ```
 
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+---
+
 
 
 # Dff_Asyncres Using Iverilog And Yosys
@@ -42,6 +52,14 @@ $ yosys
 > abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
 > show
 ```
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+
+---
+
+
 # Dff_Async_Set Using Iverilog And Yosys
 
 ```bash
@@ -60,6 +78,14 @@ $ yosys
 > abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
 > show
 ```
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+---
 
 # Dff_Syncres Using Iverilog And Yosys
 
@@ -80,6 +106,12 @@ $ yosys
 > show
 ```
 
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+---
+
 #  Mult2 Using Yosys
 
 ```bash
@@ -98,6 +130,16 @@ $ yosys
 > !gvim mul2_net.v
 ```
 
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+---
+
+
+
 # Mult8 Using Yosys
 
 ```bash
@@ -114,5 +156,11 @@ $ yosys
 >write_verilog -noattr mult8_net.v
 >!gvim mult8_net.v
 ```
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
+---
+
 
 
