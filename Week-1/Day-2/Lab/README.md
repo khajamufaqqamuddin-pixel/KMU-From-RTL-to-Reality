@@ -21,13 +21,13 @@ $ yosys
 > !gvim multiple_modules_flat.v
 ```
 
-![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
 
-![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+![multiple_module](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/multiple_module.jpeg)
 
-![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+![gvim_miltiple_module](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim_multiple_module.jpeg)
 
-![Iverilog Flow](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/Iverilog_based_simulation_flow.png)
+
 
 ---
 
