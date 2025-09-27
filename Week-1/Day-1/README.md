@@ -74,7 +74,7 @@ This repository documents my hands-on learning and implementation of Verilog-bas
 🎯 Stimulates the `good_mux` module.  
 📝 Dumps waveforms for GTKWave via `$dumpfile` and `$dumpvars`.
 
-🖼️ ![tb_good_mux](:https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
+🖼️ ![tb_good_mux](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-1/good_mux_gtkwave.jpeg)
 
 ---
 
