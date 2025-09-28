@@ -74,20 +74,6 @@ This repository documents my week-by-week experience participating in the **VSD 
 
 ---
 
-## 📊 Visualization Snapshots
-
-> Replace these with your actual images/screenshots in your repo:
-
-- ✅ `mux_generate_GLS.v` netlist  
-  ![MUX Netlist](Images/mux_generate_show.png)
-
-- 🧪 `tb_rca.v` simulation waveform (GLS vs RTL)  
-  ![RCA Simulation](Images/Task5_rca_GLS_and_RTLsimulaltion.png)
-
-- 🔄 `const4.v` constant propagation  
-  ![Const4](Images/Task2_dff_const4_show_iverilog_simuatlion.png)
-
----
 
 ## 💡 Key Technical Learnings
 
