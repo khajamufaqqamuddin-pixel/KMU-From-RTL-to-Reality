@@ -183,7 +183,4 @@ opt_clean -purge
 - 📁 Liberty File: `sky130_fd_sc_hd__tt_025C_1v80.lib`
 - 🧠 Sky130 PDK: https://github.com/google/skywater-pdk
 
-*****************************************************************************************
-* ✅ This file is VS Code–ready. Save as `README.md` or `.txt` and preview in markdown mode.
-*****************************************************************************************
 
