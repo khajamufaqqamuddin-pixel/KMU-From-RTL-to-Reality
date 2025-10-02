@@ -12,7 +12,7 @@ $ cd module
 $ ls
 ```
 
-
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
 ---
 
 
@@ -42,3 +42,12 @@ $ yosys
 > abc -liberty /home/kmu/Desktop/yosys/sky130RTLDesignAndSynthesisWorkshop/verilog_files/open_pdks/sources/sky130_fd_sc_hd/timing/sky130_fd_sc_hd__tt_025C_1v80.lib
 > show vsdbabysoc
 ```
+
+---
+
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
+![gvim cells](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-1/Day-2/Lab/gvim%20cells.jpeg)
