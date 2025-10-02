@@ -12,7 +12,11 @@ $ cd module
 $ ls
 ```
 
+🖼️
 ![file path](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/file%20path.jpeg)
+
+
+
 ---
 
 
@@ -44,10 +48,28 @@ $ yosys
 ```
 
 ---
-
+🖼️
 ![gvim](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/gvim.jpeg)
+---
+
+
+
+🖼️
 ![gvim_tb](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/gvim_tb.jpeg)
+---
+
+🖼️
 ![vsdbabysoc iverilog](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20iverilog.jpeg)
+---
+
+🖼️
 ![vsdbabysoc gtkwave](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20gtkwave.jpeg)
+---
+
+🖼️
 ![vsdbabysoc t_yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20t_yosys.jpeg)
+---
+
+🖼️
 ![vsdbaby yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20yosys.jpeg)
+---
