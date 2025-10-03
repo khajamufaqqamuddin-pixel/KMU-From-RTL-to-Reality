@@ -16,7 +16,7 @@ To build a solid understanding of SoC fundamentals and practice functional model
 ---
 
 
-## BabySoc Block
+## BabySoC Block
 
 🖼️
 ![BabySoC_block](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/BabySoC_block.png)
