@@ -128,9 +128,9 @@ The simulation was executed using the testbench `vsdbabysoc_tb` and analyzed in 
 
 
 🖼️
-![vsdbabysoc t_yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20t_yosys.jpeg)
+![babySoC t_yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/babySoC%20t_yosys.jpeg)
 ---
 
 🖼️
-![vsdbaby yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20yosys.jpeg)
+![babySoC yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/babySoC%20yosys.jpeg)
 ---
