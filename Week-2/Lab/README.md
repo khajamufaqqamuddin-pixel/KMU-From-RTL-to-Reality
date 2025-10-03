@@ -21,7 +21,7 @@ $ ls
 
 
 
-# VSDBabySoC Using Iverilog And Yosys
+# BabySoC Using Iverilog And Yosys
 
 ---
 
