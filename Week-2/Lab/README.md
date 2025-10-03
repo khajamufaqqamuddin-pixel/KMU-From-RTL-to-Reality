@@ -67,6 +67,59 @@ $ yosys
 ---
 
 
+
+
+
+# 🔍 Observations from GTKWave Simulation (`dump.vcd`)
+
+## ✅ Overview
+The simulation was executed using the testbench `vsdbabysoc_tb` and analyzed in **GTKWave** over a duration of **85 µs**. The waveform data provides insights into the behavior of a simple SoC or PLL-based design. Below is a summary of the key signals observed.
+
+---
+
+## 📈 Signal Observations
+
+### 1. `reset` (reg)
+- Remained **low (0)** throughout the simulation.
+- Indicates that no reset was applied during this time window.
+- All modules were active from the beginning of the simulation.
+
+### 2. `ENb_CP` and `ENb_VCO` (reg)
+- Both are active-low enable signals (`ENb_` implies active-low).
+- Remained **low**, which means both **charge pump** and **VCO** blocks were **enabled**.
+
+### 3. `REF` (reg)
+- A periodic digital signal (square wave).
+- Functions as the **reference input** clock, likely for a PLL.
+
+### 4. `VCO_IN` (reg)
+- Another periodic digital signal, similar to `REF`.
+- Frequency closely matches that of `REF`, suggesting that the **PLL is locked** or tracking the reference.
+
+### 5. `OUT` (real)
+- A real-valued analog signal, possibly representing the output of the charge pump or filtered VCO signal.
+- Shows expected continuous variation, reflecting dynamic analog behavior.
+
+### 6. `VREFH` and `VREFL` (real)
+- Constant reference voltages:
+  - `VREFH ≈ 3.3V`
+  - `VREFL ≈ 0V`
+- These likely serve as high/low reference levels for analog comparison.
+
+---
+
+## 📌 Summary
+
+- All modules remained active since the reset signal was never asserted.
+- The system appears to be stable and functional.
+- The PLL subsystem seems to be **locked**, as `REF` and `VCO_IN` are synchronized.
+- Analog output (`OUT`) is behaving as expected.
+- Reference voltages (`VREFH`, `VREFL`) are within normal operating range.
+
+---
+
+
+
 🖼️
 ![pll](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/pll.jpeg)
 ---
