@@ -66,6 +66,14 @@ $ yosys
 ![vsdbabysoc gtkwave](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20gtkwave.jpeg)
 ---
 
+
+🖼️
+![pll](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/pll.jpeg)
+---
+
+
+
+
 🖼️
 ![vsdbabysoc t_yosys](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20t_yosys.jpeg)
 ---
