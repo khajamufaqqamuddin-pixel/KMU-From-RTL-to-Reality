@@ -59,11 +59,11 @@ $ yosys
 ---
 
 🖼️
-![vsdbabysoc iverilog](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20iverilog.jpeg)
+![babySoC iverilog](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/%20babySoC%20iverilog.jpeg)
 ---
 
 🖼️
-![vsdbabysoc gtkwave](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/vsdbabysoc%20gtkwave.jpeg)
+![babySoC gtkwave](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/Lab/babySoC%20gtkwave.jpeg)
 ---
 
 
