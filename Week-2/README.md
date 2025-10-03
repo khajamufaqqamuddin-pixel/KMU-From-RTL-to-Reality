@@ -15,6 +15,14 @@ To build a solid understanding of SoC fundamentals and practice functional model
 
 ---
 
+
+## BabySoc Block
+
+🖼️
+![BabySoC_block](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-2/BabySoC_block.png)
+
+
+
 ## 📘 1. What is a System-on-Chip (SoC)?
 A **System-on-Chip (SoC)** is an integrated circuit that combines the essential building blocks of a computer system into a single chip.  
 Instead of using separate chips for CPU, memory, and peripherals, an SoC integrates them to achieve:
