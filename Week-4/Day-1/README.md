@@ -1,6 +1,6 @@
 
 # DAY-1
-This repository demonstrates SPICE-based NMOS transistor analysis — from theoretical understanding to simulation using Ngspice.
+
 
 ## 📗 Topics Covered
 1. Why SPICE simulations are needed  
