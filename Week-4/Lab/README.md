@@ -28,12 +28,12 @@ $ ngspice day1_nfet_idvds_L2_W5.spice
 > exit
 ```
 🖼️
-![ngspice](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-1/Lab/ngspice.jpeg)
+![ngspice](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/ngspice.jpeg)
 
 
 🖼️
-![vim day1](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-1/Lab/vim%20day1.png)
+![vim day1](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/vim%20day1.png)
 
 
 🖼️
-![day1 nfet idvds op](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-1/Lab/day1%20nfet%20idvds%20op.jpeg)
+![day1 nfet idvds op](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/day1%20nfet%20idvds%20op.jpeg)
