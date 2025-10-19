@@ -147,20 +147,20 @@ $ ngspice day5_inv_devicevariation_wp7_wn042.spice
 >exit 
 ```
 🖼️
-![vim day5 supply variation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-5/Lab/vim%20day5%20supply%20variation.png)
+![vim day5 supply variation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/vim%20day5%20supply%20variation.png)
 
 
 
 
 🖼️
-![day5 inv supplyvariation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-5/Lab/day5%20inv%20supplyvariation.jpeg)
+![day5 inv supplyvariation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/day5%20inv%20supplyvariation.jpeg)
 
 
 
 🖼️
-![vim day5 device variation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-5/Lab/vim%20day5%20device%20variation.png)
+![vim day5 device variation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/vim%20day5%20device%20variation.png)
 
 
 
 🖼️
-![day5 inv devicevariation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-5/Lab/day5%20inv%20devicevariation.png)
+![day5 inv devicevariation](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/day5%20inv%20devicevariation.png)
