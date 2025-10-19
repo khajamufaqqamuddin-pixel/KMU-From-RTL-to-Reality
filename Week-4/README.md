@@ -113,6 +113,9 @@ M1 drain gate source body model_name L=1u W=10u
 | PHI | Surface potential | 0.6 V |
 | GAMMA | Body effect coefficient | 0.4 |
 
+
+---
+
 <h1 align="center">🧠 CMOS Circuit Design – Theory & Conceptual Background</h1>
 
 <p align="center">
@@ -121,6 +124,8 @@ M1 drain gate source body model_name L=1u W=10u
 </p>
 
 ---
+🖼️
+![ngspice](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/ngspice.jpeg)
 
 ## 1️⃣ MOSFET Behavior & Id–Vds Characteristics
 
