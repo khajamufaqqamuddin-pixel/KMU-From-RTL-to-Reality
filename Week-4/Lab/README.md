@@ -84,20 +84,20 @@ $ ngspice day3_inv_tran_Wp084_Wn036.spice
 ```
 
 🖼️
-![vim day3](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-3/Lab/vim%20day3.png)
+![vim day3](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/vim%20day3.png)
 
 
 
 🖼️
-![day3 inv vtc](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-3/Lab/day3%20inv%20vtc.jpeg)
+![day3 inv vtc](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/day3%20inv%20vtc.jpeg)
 
 
 
 🖼️
-![vim day3 tran](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-3/Lab/vim%20day3%20tran.png)
+![vim day3 tran](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/vim%20day3%20tran.png)
 
 
 
 
 🖼️
-![day3 inv tran](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Day-3/Lab/day3%20inv%20tran.jpeg)
+![day3 inv tran](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/day3%20inv%20tran.jpeg)
