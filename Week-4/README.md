@@ -125,7 +125,7 @@ M1 drain gate source body model_name L=1u W=10u
 
 ---
 🖼️
-![ngspice](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/Lab/ngspice.jpeg)
+![TRANSISTOR](https://github.com/khajamufaqqamuddin-pixel/KMU-From-RTL-to-Reality/blob/main/Week-4/TRANSISTOR.png)
 
 ## 1️⃣ MOSFET Behavior & Id–Vds Characteristics
 
